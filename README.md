@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachin-raghuwanshi.
-- Candidiate Master at codeforces.
+- Candidate Master at codeforces.
 - Undergrad at IIIT ALLAHABAD.
 - [![@sachinraghuwanshi's Holopin board](https://holopin.me/sachinraghuwanshi)](https://holopin.io/@sachinraghuwanshi)
 
